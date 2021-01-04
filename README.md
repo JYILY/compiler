@@ -6,4 +6,11 @@
 
 ### 界面
 
+
 ![运行界面](/imgs/main.png)
+
+![打印语法树](/imgs/tree.png)
+
+![语义分析](/imgs/translation.png)
+
+
